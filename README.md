@@ -6,7 +6,7 @@ This project involves a comprehensive statistical analysis of the stock performa
 * Descriptive Statistics: Detailed statistical overview of Microsoft, Tesla, Apple, and S&P 500 stocks, highlighting key metrics such as mean, median, standard deviation, skewness, and kurtosis.
 * Stock Performance Analysis: Examination of price trends, trading volumes, and intraday price changes for each company over the five-year period.
 * Moving Average Analysis: Comparison of 50-day moving averages with adjusted closing prices to identify trends and potential buy/sell signals.
-8 Regression Analysis: Linear regression models to assess the relationship between each stock and the S&P 500 index, providing insights into market sensitivity and volatility.
+* Regression Analysis: Linear regression models to assess the relationship between each stock and the S&P 500 index, providing insights into market sensitivity and volatility.
 * Comparative Analysis: A side-by-side comparison of Microsoft, Tesla, and Apple’s stock performance and their correlation with the broader market.
 
 ## Dataset Description
