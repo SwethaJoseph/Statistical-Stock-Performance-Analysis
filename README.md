@@ -1,6 +1,6 @@
 # Statistical-Stock-Performance-Analysis
 ## Overview
-This project involves a comprehensive statistical analysis of the stock performance of three major companies—Microsoft, Tesla, and Apple—compared to the S&P 500 index. The analysis covers descriptive statistics, price trends, moving averages, correlations with the S&P 500, regression analyses, and trading volumes from 2018 to 2023. The goal is to derive actionable investment insights and understand the behavior of these stocks relative to the broader market.
+This project involves a comprehensive statistical analysis of the stock performance of three major companies—Microsoft, Tesla, and Apple—compared to the S&P 500 index. The analysis covers descriptive statistics, price trends, moving averages, correlations with the S&P 500, regression analyses, and trading volumes from 2018 to 2023. The goal is to derive actionable investment insights and understand the behaviour of these stocks relative to the broader market.
 
 ## Key Features
 * Descriptive Statistics: Detailed statistical overview of Microsoft, Tesla, Apple, and S&P 500 stocks, highlighting key metrics such as mean, median, standard deviation, skewness, and kurtosis.
